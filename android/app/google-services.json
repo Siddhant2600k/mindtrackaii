@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "48541354603",
+    "project_id": "mindtrack-ai-free",
+    "storage_bucket": "mindtrack-ai-free.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48541354603:android:53c8fff1d75592d778ff2e",
+        "android_client_info": {
+          "package_name": "com.example.mindtrack_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48541354603-rv6us43s0i47th00jlbquomi2hnbdaff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mindtrack_ai",
+            "certificate_hash": "4bda6bc3f991056b9b92bc2ec7023d3d6280e1c0"
+          }
+        },
+        {
+          "client_id": "48541354603-01p3393n0dg5n9e3pmhtejdjbojqbo1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcgU2fwd3Fh4J7YPccDjk-cYYemZSPRGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48541354603-01p3393n0dg5n9e3pmhtejdjbojqbo1t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "48541354603-ri1n9d178hvd5gsh6mdjs0uvnnu6rgh4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mindtrackAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
